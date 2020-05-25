@@ -5,6 +5,9 @@
   "repository": "https://github.com/snowjang24/webpack-for-react.git",
   "author": "snowjang24 <asdka4618@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
